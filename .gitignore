@@ -1,14 +1,8 @@
 # Icarus Verilog build output
-counter_sim
+sim
 *.out
 
 # Waveform files (from Surfer)
 *.vcd
 *.fst
 *.ghw
-
-# VSCode project settings
-.vscode/
-
-# macOS system junk
-.DS_Store
