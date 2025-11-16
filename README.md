@@ -28,6 +28,8 @@ This produces `tb_counter.vcd` which you can open in Surfer.
 `surfer tb_counter4.vcd`
 
 ### Waveform Results
+<img width="2032" height="1224" alt="Screenshot 2025-11-16 at 2 39 02 AM" src="https://github.com/user-attachments/assets/2f1785dc-8a6a-49cf-af00-d19cf91ed5c1" />
+
 Waveform confirms the counter behaves correctly:
 
 - **Reset (0-20 ns)
